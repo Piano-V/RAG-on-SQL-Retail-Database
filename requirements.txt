@@ -1,0 +1,9 @@
+transformers==4.31.0
+mysql-connector-python==8.0.33
+chromadb==0.3.21
+langchain-google-genai==0.0.7
+getpass4==0.1.1
+langchain==0.0.175
+langchain-huggingface==0.0.9
+protobuf==3.20.3
+streamlit
